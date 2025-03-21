@@ -40,20 +40,20 @@ export default function Home() {
             <Image src={Girasol} alt="Girasol" width={500} />
           </div>
           <p className="text-lg text-white mt-4 p-5 font-semibold text-center">
-            Briana, eres el sol que ilumina mis días y la razón detrás de cada
-            uno de mis sonrisas. No hay palabras suficientes para expresar
-            cuánto significas para mí. Hoy, 21 de marzo, no quiero que solo
-            observes el mundo; quiero que seas el centro de él, mi reina, mi
-            princesa, mi todo. Te quiero más de lo que las estrellas quieren al
-            cielo, más de lo que las flores aman al sol. Esto, con todo mi
-            corazón, es para ti, porque cada latido mío te pertenece. 🌻❤️
+            Briana, mi princesa, eres el sol que ilumina mis días y la razón
+            detrás de cada una de mis sonrisas. No hay palabras suficientes para
+            expresar cuánto significas para mí en tan poco tiempo. Hoy, 21 de
+            marzo, no quiero que seas espectadora. Te quiero más de lo que las
+            estrellas quieren al cielo, más de lo que las flores aman al sol.
+            Esto, con todo mi corazón, es para ti, porque cada latido mío te
+            pertenece. 🌻❤️
           </p>
         </div>
       )}
 
       {/* Control de audio */}
       <audio id="myAudio" loop>
-        <source src="/audio/JM-suspira.mp3" type="audio/mpeg" />
+        <source src="/audio/El-cielo.mp3" type="audio/mpeg" />
       </audio>
     </div>
   );
